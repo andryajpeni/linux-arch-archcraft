@@ -1,0 +1,9 @@
+# Import Current Theme
+DIR="$HOME/.config/bspwm"
+STYLE="black"
+RASI="$DIR/themes/$STYLE/rofi/windows.rasi"
+
+# Run
+rofi \
+    -show window \
+	-theme ${RASI}
