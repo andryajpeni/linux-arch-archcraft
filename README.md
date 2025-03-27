@@ -1,4 +1,7 @@
 # linux-arch-archcraft
+Preview :
+![image](https://github.com/user-attachments/assets/62d4c490-acfe-4682-ab5f-fa254f765931)
+
 My Linux Setup
 
 Linux Setup :
